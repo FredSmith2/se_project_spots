@@ -38,3 +38,7 @@ Good luck and have fun!
 
 Here is the link to the live demo.
 https://fredsmith2.github.io/se_project_spots/
+
+**Project Video**
+Here is the link to the project video.
+https://drive.google.com/file/d/18KtbK_i7zlQaRCEsoySEOJ0PSovy9aM5/view?usp=drive_link
