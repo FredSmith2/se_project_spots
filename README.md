@@ -24,7 +24,7 @@ Spots is a responsive web page that adjusts is layout based on screen size. Whet
 - CSS
 - GitHub Pages
 
-- **Figma**
+**Figma**
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
