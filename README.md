@@ -20,9 +20,9 @@ Spots is a responsive web page that adjusts is layout based on screen size. Whet
 
 **Technologies Used**
 
--HTML
--CSS
--GitHub Pages
+- HTML
+- CSS
+- GitHub Pages
 
 - **Figma**
 
@@ -30,15 +30,13 @@ Spots is a responsive web page that adjusts is layout based on screen size. Whet
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+Here I exported this image from figma and I also optimized the image [here](https://tinypng.com/), so my project loads faster.
 ![alt text](images/figma.png)
-Good luck and have fun!
 
 **Link to GitHub Pages**
 
-Here is the link to the live demo.
-https://fredsmith2.github.io/se_project_spots/
+Here is the link to the live [demo](https://fredsmith2.github.io/se_project_spots/).
 
 **Project Video**
-Here is the link to the project video.
-https://drive.google.com/file/d/18KtbK_i7zlQaRCEsoySEOJ0PSovy9aM5/view?usp=drive_link
+
+Here is the link to the project [video](https://drive.google.com/file/d/18KtbK_i7zlQaRCEsoySEOJ0PSovy9aM5/view?usp=drive_link).
