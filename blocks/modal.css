@@ -14,7 +14,7 @@
   padding: 0 16px;
 }
 
-.modal__opened {
+.modal_opened {
   visibility: visible;
 }
 
@@ -86,7 +86,6 @@
     padding: 0 10px;
   }
 
-
   .modal__container {
     max-width: 300px;
     width: 100%;
@@ -97,7 +96,6 @@
     top: 12px;
     right: 12px;
   }
-
 
   .modal__title {
     margin: 10px 0 34px;
@@ -116,3 +114,4 @@
   .modal__submit-btn {
     width: 100%;
   }
+}
